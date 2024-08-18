@@ -1,0 +1,14 @@
+Steps:
+1.Create a floder
+2.Right click on the floder & click on the bash
+3.git Cmd prompt will open
+4.To add user mail- git config --global user.email ("mail id")
+5.To add user name- git config --global user.name ("name")\
+6.Intialise the git- git init
+7.Add a file in floder
+8.To add a file in git- git add filename(test.txt)
+9.To Commit- git commit -m "file added" 
+9.Go to the git repo copygit the URL
+10.Add the remote repo URL- git remote add origin URL
+11.To push the file- add git push -u origin master(branch name)
+12.git log
